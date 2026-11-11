@@ -1,0 +1,3 @@
+# Collect a short public market-data series and plot it
+pip install yfinance matplotlib
+python market_history.py --ticker IBM --period 5y
