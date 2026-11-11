@@ -2,6 +2,14 @@
 
 A newly reconstructed portfolio mapped to public IBM Data Science Professional Certificate project descriptions. These artifacts were written after the certificate was earned; they are not recovered Coursera submissions, graded work, or a record of what was completed during the course. Course-only assessments and private lab instructions are not reproduced.
 
+## Certificate
+
+[IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/36D2W5WOUC2W) · 12 courses · completed September 4, 2026 · [view certificate image](certificates/ibm-data-science.jpeg).
+
+## Course coverage
+
+See [COURSE_COVERAGE.md](COURSE_COVERAGE.md) for a course-by-course comparison of the certificate list with repository files. Related portfolio work is not the original classwork.
+
 ## Projects
 
 | Project | Course skills represented | Entry point |
